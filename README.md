@@ -10,10 +10,9 @@
 
 ### 👨‍💻 Sobre mim
 
-- 🔭 Atualmente mantendo meus projetos: **BarberShop-Style**, **Projeto Frontend Unisuan** e **Backend PHP**.
+- 🔭 Atualmente Focado em elaborar e criar projetos.
 - 🌱 Estudando e aprimorando minhas habilidades em desenvolvimento e infraestrutura.
-- 🎯 Objetivo: Criar aplicações organizadas, eficientes e estilosas.
-- 📫 Como me encontrar: [Inserir Link do LinkedIn]
+- 📫 Como me encontrar: [www.linkedin.com/in/fernandoanulino/]
 
 ---
 
